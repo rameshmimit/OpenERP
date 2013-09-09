@@ -50,3 +50,6 @@ chown openerp:openerp /etc/openerp-server.conf
 chmod u+x /etc/init.d/openerp
 chkconfig openerp on
 service  openerp start
+
+
+## To Do: Save the logs of each transanction in log file.
